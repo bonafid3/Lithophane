@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>header_footer.jpg</file>
+    </qresource>
+</RCC>
